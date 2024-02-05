@@ -1,0 +1,15 @@
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Application\bin\Debug\net7.0\NoteTakingApp.Application.deps.json
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Application\bin\Debug\net7.0\NoteTakingApp.Application.dll
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Application\bin\Debug\net7.0\NoteTakingApp.Application.pdb
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Application\bin\Debug\net7.0\NoteTakingApp.Domain.dll
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Application\bin\Debug\net7.0\NoteTakingApp.Domain.pdb
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Application\obj\Debug\net7.0\NoteTakingApp.Application.csproj.AssemblyReference.cache
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Application\obj\Debug\net7.0\NoteTakingApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Application\obj\Debug\net7.0\NoteTakingApp.Application.AssemblyInfoInputs.cache
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Application\obj\Debug\net7.0\NoteTakingApp.Application.AssemblyInfo.cs
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Application\obj\Debug\net7.0\NoteTakingApp.Application.csproj.CoreCompileInputs.cache
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Application\obj\Debug\net7.0\NoteTakingApp.Application.csproj.CopyComplete
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Application\obj\Debug\net7.0\NoteTakingApp.Application.dll
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Application\obj\Debug\net7.0\refint\NoteTakingApp.Application.dll
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Application\obj\Debug\net7.0\NoteTakingApp.Application.pdb
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Application\obj\Debug\net7.0\ref\NoteTakingApp.Application.dll

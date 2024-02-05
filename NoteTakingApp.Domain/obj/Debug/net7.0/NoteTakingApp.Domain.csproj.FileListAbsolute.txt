@@ -1,0 +1,12 @@
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Domain\bin\Debug\net7.0\NoteTakingApp.Domain.deps.json
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Domain\bin\Debug\net7.0\NoteTakingApp.Domain.dll
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Domain\bin\Debug\net7.0\NoteTakingApp.Domain.pdb
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Domain\obj\Debug\net7.0\NoteTakingApp.Domain.csproj.AssemblyReference.cache
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Domain\obj\Debug\net7.0\NoteTakingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Domain\obj\Debug\net7.0\NoteTakingApp.Domain.AssemblyInfoInputs.cache
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Domain\obj\Debug\net7.0\NoteTakingApp.Domain.AssemblyInfo.cs
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Domain\obj\Debug\net7.0\NoteTakingApp.Domain.csproj.CoreCompileInputs.cache
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Domain\obj\Debug\net7.0\NoteTakingApp.Domain.dll
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Domain\obj\Debug\net7.0\refint\NoteTakingApp.Domain.dll
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Domain\obj\Debug\net7.0\NoteTakingApp.Domain.pdb
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Domain\obj\Debug\net7.0\ref\NoteTakingApp.Domain.dll

@@ -1,0 +1,17 @@
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Infrastructure\bin\Debug\net7.0\NoteTakingApp.Infrastructure.deps.json
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Infrastructure\bin\Debug\net7.0\NoteTakingApp.Infrastructure.dll
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Infrastructure\bin\Debug\net7.0\NoteTakingApp.Infrastructure.pdb
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Infrastructure\obj\Debug\net7.0\NoteTakingApp.Infrastructure.csproj.AssemblyReference.cache
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Infrastructure\obj\Debug\net7.0\NoteTakingApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Infrastructure\obj\Debug\net7.0\NoteTakingApp.Infrastructure.AssemblyInfoInputs.cache
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Infrastructure\obj\Debug\net7.0\NoteTakingApp.Infrastructure.AssemblyInfo.cs
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Infrastructure\obj\Debug\net7.0\NoteTakingApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Infrastructure\obj\Debug\net7.0\NoteTakingApp.Infrastructure.dll
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Infrastructure\obj\Debug\net7.0\refint\NoteTakingApp.Infrastructure.dll
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Infrastructure\obj\Debug\net7.0\NoteTakingApp.Infrastructure.pdb
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Infrastructure\obj\Debug\net7.0\ref\NoteTakingApp.Infrastructure.dll
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Infrastructure\bin\Debug\net7.0\NoteTakingApp.Application.dll
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Infrastructure\bin\Debug\net7.0\NoteTakingApp.Domain.dll
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Infrastructure\bin\Debug\net7.0\NoteTakingApp.Application.pdb
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Infrastructure\bin\Debug\net7.0\NoteTakingApp.Domain.pdb
+D:\DotNetCoreApi\NoteTakingApp.Api\NoteTakingApp.Infrastructure\obj\Debug\net7.0\NoteTakingApp.Infrastructure.csproj.CopyComplete
